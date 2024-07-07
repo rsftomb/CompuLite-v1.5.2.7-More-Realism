@@ -4,8 +4,6 @@ CompuLite v1.5.2.7 More Realism
 ## Original Release Notes March 13, 2022
 CompuLite v1.5.2.7 - by https://bejoijo.com
 
-CompuLite - More Realism QoL v1.0 -RSF Tomb  https://rsfclangaming.webs.com/lspdfr-mods
-
 CompuLite More Realism QoL is a replacement .ini config file for CompuLite. The noticable changes to 
 CompuLite are subtle and can be changed by users easily. This .cfg is for those who want to drag
 drop or who dont want to be bothered with editing files.
